@@ -24,4 +24,4 @@ Using bulleted lists, describe the accuracy scores and the precision and recall 
 
 ## Summary
 
-With an accuracy of 0.99, and a precision and recall for high-risk loans of above 0.85 for all scenarios, this model performed extremely well with the data.  As such, I would recommend that this model continue to be used for predicting whether or borrower's have loans that are considered to be high-risk.
+With an accuracy of 0.99, and a precision and recall for high-risk loans of above 0.85 for all scenarios, including being 1.00 when focused on healthy loans, this model performed extremely well with the data.  As such, I would recommend that this model continue to be used for predicting whether or borrower's have loans that are considered to be high-risk.
